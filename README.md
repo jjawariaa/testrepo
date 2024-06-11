@@ -1,2 +1,4 @@
 # testrepo
-This is my first code
+This is my first code.
+
+I am making my second edit to my git repo.
